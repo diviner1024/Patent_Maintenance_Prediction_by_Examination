@@ -1,0 +1,10 @@
+File				url				
+application_data_2014.csv	https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair
+continuity_parents.csv		https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair
+transactions.csv		https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair
+pgpub_document_stats.csv	https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-claims-research-dataset
+patent_document_stats.csv	https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-claims-research-dataset
+MaintFeeEvents_20171023.txt*	http://patents.reedtech.com/maintfee.php
+
+*	Latest version works as well
+**	The event codes used in the python script are given in the same page as data
