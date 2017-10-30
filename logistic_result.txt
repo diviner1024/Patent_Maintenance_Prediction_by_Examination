@@ -1,0 +1,5 @@
+This result shows the logistic regression using the extracted variables to predict renewal rate at year 4.
+
+The independent variables include (following the order in the result): number of RCE, patent has provisional application, patent entity, estimated cost using the fee table and collected fee-related events, the patent has PCT application, number of continuation parent patents to this patent, the number of appealing during the examination, the Request for Extension of Time (RET) during the examination, number of independent claims, number of dependent claims.
+
+The result suggests most variables provides information to the renewal decision. Yet we should notice the effect changes with time as the other figure suggests. For example the RET provides little information at 4th year renewal, but at 8th and 12th, it induces negative impact on the renewal rate.
