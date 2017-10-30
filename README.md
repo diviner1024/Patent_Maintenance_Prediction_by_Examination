@@ -4,4 +4,4 @@
 # The stata script (.do) is regression analysis
 # The .csv and .mat are preliminary data for this result
 # The two png files are used for challenge submission
-# The txt file records online data sources
+# The txt files give details of the plots and record online data sources
